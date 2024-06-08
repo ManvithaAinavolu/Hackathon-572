@@ -1,0 +1,46 @@
+.covid-page {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+.title {
+  color: #333;
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.dropdown-container {
+  margin-bottom: 20px;
+}
+
+#country-select {
+  padding: 10px;
+  font-size: 1em;
+  margin-left: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.data-container {
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  display: inline-block;
+  text-align: left;
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+.data-container p {
+  margin: 10px 0;
+  font-size: 1.2em;
+  color: #555;
+}
+table,tr,th,td{
+  border:2px solid black;
+  padding:10px;
+  justify-content: center;
+  border-collapse: collapse;
+}
